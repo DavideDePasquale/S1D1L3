@@ -1,0 +1,50 @@
+body {
+    margin:0;
+    width:auto;
+    height:auto;
+}
+header {
+    text-align:center;
+    width:auto;
+} 
+h3 {
+    font-size:23px;
+    margin-left:25%;
+    margin-right:25%;
+}
+.class {
+    text-align:center;
+}
+main {
+    margin:auto;
+    width:65%;
+}
+ul {
+    text-align:left;
+}
+li {
+    text-align:left;
+    margin-left: 1%;
+}
+.margine {
+    margin-left: 2px;
+}
+cite {
+    display: block;
+    text-align: left;
+    margin-left:20%;
+}
+.okay {
+    font-size:large;
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.margine {
+    border-left:inset coral;
+}
+.bordi {
+    background-color:rgb(230, 211, 220);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
